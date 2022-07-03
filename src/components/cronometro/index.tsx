@@ -1,6 +1,6 @@
-import Button from '../button'
-import Relogio from './Relogio'
-import style from './cronometro.module.scss'
+import Button from '../button';
+import Relogio from './Relogio';
+import style from './cronometro.module.scss';
 
 
 export default function cronometro() {

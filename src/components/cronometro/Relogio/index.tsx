@@ -1,4 +1,4 @@
-import style from './relogio.module.scss'
+import style from './relogio.module.scss';
 
 
 export default function relogio() {
